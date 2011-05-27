@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.4.0
-Release:	%mkrel 13
+Release:	%mkrel 14
 Summary:	GTK+ (Desktop) PEAR Package Manager
 License:	PHP License
 Group:		Development/PHP
