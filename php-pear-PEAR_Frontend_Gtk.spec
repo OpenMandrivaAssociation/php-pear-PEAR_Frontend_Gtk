@@ -8,7 +8,7 @@ Release:	17
 Summary:	GTK+ (Desktop) PEAR Package Manager
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/PEAR_Frontend_Gtk/
+URL:		https://pear.php.net/package/PEAR_Frontend_Gtk/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
